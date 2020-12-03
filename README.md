@@ -2,7 +2,7 @@
 
 ### Abstract
  
-This project is for the Hospital Management. 
+This project is for Hospital Management. 
 There are three parts in this project, doctor, patient and admin.
 
 Doctor can be check his/her patient list and medical record and his/her profile.
