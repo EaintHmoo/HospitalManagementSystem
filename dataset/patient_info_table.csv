@@ -1,0 +1,18 @@
+id,patient_id,name,gender,age,city,doctor_id,fathername,phone,email
+1,1,Mg Mg,male,20,mandalay,1,mgmyo,9.11E+11,mg@gmail.com
+2,2,Aye Aye,female,19,yangon,2,ayethein,9.11E+11,aye@gmail.com
+3,3,Kyaw Kyaw,male,19,naypyitaw,3,kyawhtay,9.11E+11,kyaw@gmail.com
+4,4,Hla Hla,female,19,mandalay,4,hlahtay,9.11E+11,hla@gmail.com
+5,5,Mya Mya,female,20,naypyitaw,5,mayaye,92432523450,mya@gmail.com
+6,6,Thida,female,20,yangon,2,hlahtay,92432523450,thida@gmail.com
+7,7,Tun Tun,male,18,tangoo,2,tunkyaw,92432523450,tun@gmail.com
+8,8,Thu Thu,female,30,pyinoolwin,1,myatthu,92432523450,thu@gmail.com
+9,9,Nilar,female,40,yangon,4,aungkyi,92432523450,nilar@gmail.com
+10,10,Kyipyar,female,50,mandalay,6,hlaaung,92432523450,kyipyar@gmail.com
+11,11,htay htay,female,39,mandalay,1,htay,9876543212,htay@gmail.com
+12,12,khaing,Female,12,Yangon,2,Aye,0987654321,khaing@gmail.com
+13,13,aye,Female,23,Yangon,3,aye,0987654321,aye@gmail.com
+14,14,susu,Female,11,Yedashe,1,U su,6879678968,su@gmail.com
+15,15,eitone,Female,23,Yedashe,5,U Aung,099889473,ei@gmailcom
+16,16,test,Female,23,Mandalay,6,test,0987665432,test@gmail.com
+17,17,myamya,Female,23,mandalay,1,U mya,0975636546,mya@gmail.com

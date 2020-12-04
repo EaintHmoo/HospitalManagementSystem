@@ -1,0 +1,12 @@
+id,username,password,link_id,role
+1,mgmg,123,1,admin
+2,dawsu,123,1,doctor
+3,uchit,123,2,doctor
+4,uaye,123,4,doctor
+5,ayeaye,123,2,patient
+6,kyawkyaw,123,3,patient
+7,hlahla,123,4,patient
+8,aye,123,2,admin
+9,test,123,4,admin
+10,test1,123,5,admin
+11,JK,123,6,admin

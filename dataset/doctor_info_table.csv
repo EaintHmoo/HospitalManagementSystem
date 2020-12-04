@@ -1,0 +1,13 @@
+id,doctor_id,name,degree,specialization,department,phone,email,duty_time
+1,1,Daw Su,Ph.D,Pediatricians,Paediatric Medical Ward,9123456789,su@gmail.com,9:00-11:00 am
+2,2,U Chit,Ph.D,Geriatricians,Genriatric Department,9123456789,chit@gmial.com,9:00-11:00 am
+3,3,U Khin,Ph.D,Dermatologists,Infectious Diseases Department,9123456789,khin@gmail.com,9:00-11:00 am
+4,4,U Aye,Ph.D,Cardiologists,Carido Department,9123456789,aye@gmail.com,9:00-11:00 am
+5,5,Daw Myo,M.D,Neurologists,Neurology Department,9123456789,myo@gmail.com,2:00-4:00 pm
+6,6,Daw Hla,Ph.D,Dentist,Teeth Department,9123456789,hla@gmail.com,9:00-11:00 am
+7,7,Daw Lai,M.D,General Surgeons,Emergency Department,9123456789,lai@gmail.com,2:00-4:00 pm
+8,8,Daw Thein,M.D,Orthopaedic,Orthopaedic Department,9123456789,thein@gmail.com,2:00-4:00 pm
+9,9,U Nay,Ph.D,Pediatricians,Emergency Department,09907827,nay@gmail.com,2:00-4:00 pm
+10,10,Daw Ei,Ph.D,Neurologists,Neurology Department,,,
+11,11,U Kyaw Kyaw,Ph.D,Cardiologists,Cardio Department,098876544,kyaw@gmail.com,2:00-3:00 pm
+12,12,U Zaw,Ph.D,Pediatricians,Paediatric Medical Ward,09324323,zaw@gmail.com,2:00-3:00 pm

@@ -1,0 +1,16 @@
+id,patient_id,diseases,doctor_id,medication,list_of_medicine,date
+1,1,diabetes,1,"Urinating often,Extreme fatigue","Sulfonylureas,Insulin,Meglitinides",1/2/2019
+2,2,heart,2,"Cold sweat,Fatigue","Anticoagulants,Statins,Aspirin",1/2/2019
+3,3,brain ,3,Headaches,"Caffeine,Fish Oils",1/2/2019
+4,4,bone,4,a weak bone that breaks (fractures) more easily than normal,"Vitamin D,Glucosamine,Calcium",2/5/2019
+5,5,diabetes,5,"Blurry vision,Weight loss","Sulfonylureas,Insulin,Meglitinides",1/17/2019
+6,6,heart,2,Shortness of breath,"Anticoagulants,Statins,Aspirin",1/6/2019
+7,7,heart,2,"Cold sweat,Fatigue","Anticoagulants,Statins,Aspirin",1/1/2019
+8,8,diabetes,1,"Blurry vision,Weight loss","Sulfonylureas,Insulin,Meglitinides",1/9/2019
+9,9,bone,4,persistent bone pain that gets worse over time and continues into the night,"Vitamin D,Glucosamine,Calcium",1/7/2019
+10,10,lung,6,coughing up blood,"Inhaled Steroids,Anticholinergics",1/2/2019
+11,1,diabetes,1,"Blurry vision,Weight loss","Sulfonylureas,Insulin",1/1/2000
+12,1,diabetes,1,Weight loss,"Sulfonylureas,Insulin",1/1/2000
+13,8,diabetes,1,blurr eye,Insulin,1/7/2000
+14,14,diabetes,1,blurr eyes,Insulin,1/5/2000
+15,8,diabetes,1,blurr eyes,Insulin,1/4/2000
